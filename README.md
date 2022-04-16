@@ -1,2 +1,0 @@
-# Mutation.deletePackageVersion
-Mutation.deletePackageVersion
